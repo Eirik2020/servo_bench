@@ -1,0 +1,6 @@
+[book]
+authors = ["Eirik Kaldhol Strandman"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Servo Bench Documentation"
